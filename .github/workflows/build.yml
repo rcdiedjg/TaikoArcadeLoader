@@ -20,3 +20,4 @@ jobs:
                   name: TaikoArcadeLoader
                   path: dist/
                   compression-level: 9
+                  
